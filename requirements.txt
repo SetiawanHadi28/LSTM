@@ -3,6 +3,6 @@ pandas
 scikit-learn
 gunicorn
 matplotlib
-seaborn
 flask
 joblib
+tensorflow-cpu
