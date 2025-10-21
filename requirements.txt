@@ -1,6 +1,6 @@
 flask
 gunicorn
-tensorflow-cpu==2.10.0
+tensorflow-cpu-lite==2.11.0
 numpy
 pandas
 scikit-learn
